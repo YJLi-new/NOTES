@@ -1,0 +1,33 @@
+# MAT3040 Advanced Linear Algebra (CUHK-SZ)
+
+Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten material is kept as PDF.
+
+## Files
+
+- [10.10 L-quotient space continue, dual space.pdf](10.10%20L-quotient%20space%20continue%2C%20dual%20space.pdf)
+- [10.12 L-dual space continue, annihilators.pdf](10.12%20L-dual%20space%20continue%2C%20annihilators.pdf)
+- [10.17 L-annihilators continue, transpose map.pdf](10.17%20L-annihilators%20continue%2C%20transpose%20map.pdf)
+- [10.19L-transpose map continue, polynomial, root theorem.pdf](10.19L-transpose%20map%20continue%2C%20polynomial%2C%20root%20theorem.pdf)
+- [10.24 L-characteristic poly, minimal poly.pdf](10.24%20L-characteristic%20poly%2C%20minimal%20poly.pdf)
+- [10.26 L-poly continue, triangularizability.pdf](10.26%20L-poly%20continue%2C%20triangularizability.pdf)
+- [10.31 L-tri-able continue, C-H theorem, poly theorem.pdf](10.31%20L-tri-able%20continue%2C%20C-H%20theorem%2C%20poly%20theorem.pdf)
+- [11.14 L-JNF proof continue, inner product space, Gram-Schmidt process, orthogonal complement.pdf](11.14%20L-JNF%20proof%20continue%2C%20inner%20product%20space%2C%20Gram-Schmidt%20process%2C%20orthogonal%20complement.pdf)
+- [11.16 L-Riesz representation, adjoint operator.pdf](11.16%20L-Riesz%20representation%2C%20adjoint%20operator.pdf)
+- [11.2 L-diagonalizable, PDT.pdf](11.2%20L-diagonalizable%2C%20PDT.pdf)
+- [11.21 L-orthogonal basis, self-adjoint.pdf](11.21%20L-orthogonal%20basis%2C%20self-adjoint.pdf)
+- [11.23 L-unitary operator.pdf](11.23%20L-unitary%20operator.pdf)
+- [11.28 L-normal operator, spectral theorem.pdf](11.28%20L-normal%20operator%2C%20spectral%20theorem.pdf)
+- [11.30 L-tensor product.pdf](11.30%20L-tensor%20product.pdf)
+- [11.9 L-JNF.pdf](11.9%20L-JNF.pdf)
+- [12.5 L-tensor product theorem.pdf](12.5%20L-tensor%20product%20theorem.pdf)
+- [12.7 L-exterior tensor product.pdf](12.7%20L-exterior%20tensor%20product.pdf)
+- [9.12 L-linearly independent, basis, finitely generated.pdf](9.12%20L-linearly%20independent%2C%20basis%2C%20finitely%20generated.pdf)
+- [9.14 L-dimension, basis extension, complementation, linearly transformation.pdf](9.14%20L-dimension%2C%20basis%20extension%2C%20complementation%2C%20linearly%20transformation.pdf)
+- [9.19 L-linear trans continue, kernal and image, rank and nulity, isomorphism.pdf](9.19%20L-linear%20trans%20continue%2C%20kernal%20and%20image%2C%20rank%20and%20nulity%2C%20isomorphism.pdf)
+- [9.21 L-ranke-nulity theorem, coordinate vectors.pdf](9.21%20L-ranke-nulity%20theorem%2C%20coordinate%20vectors.pdf)
+- [9.26 L-coordinate vectors(change of basis matrix) continue, matrix representation.pdf](9.26%20L-coordinate%20vectors%28change%20of%20basis%20matrix%29%20continue%2C%20matrix%20representation.pdf)
+- [9.28 L-matrix representation continue, quotient space.pdf](9.28%20L-matrix%20representation%20continue%2C%20quotient%20space.pdf)
+- [9.28 L-supplement.md](9.28%20L-supplement.md)
+- [9.5 L-vector space.pdf](9.5%20L-vector%20space.pdf)
+- [9.7 L.pdf](9.7%20L.pdf)
+- [MAT3040-Summary-Notes.md](MAT3040-Summary-Notes.md)
