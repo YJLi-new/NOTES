@@ -1,18 +1,25 @@
 # CHM1001 General Chemistry (CUHK-SZ)
 
-Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten material is kept as PDF.
+Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten notes and scanned submissions are transcribed to Markdown, with the original PDF kept alongside.
 
 ## Notes
 
+- [Handwritten-Vocabulary-Notes.md](notes/Handwritten-Vocabulary-Notes.md)
 - [Handwritten-Vocabulary-Notes.pdf](notes/Handwritten-Vocabulary-Notes.pdf)
 - [Lecture-Notes-Ch5-13.md](notes/Lecture-Notes-Ch5-13.md)
 - [Review-Ch06-Electronic-Structure.md](notes/Review-Ch06-Electronic-Structure.md)
 - [Review-Ch07-Periodic-Properties.md](notes/Review-Ch07-Periodic-Properties.md)
+- [Review-Ch08.md](notes/Review-Ch08.md)
 - [Review-Ch08.pdf](notes/Review-Ch08.pdf)
+- [Review-Ch09.md](notes/Review-Ch09.md)
 - [Review-Ch09.pdf](notes/Review-Ch09.pdf)
+- [Review-Ch10.md](notes/Review-Ch10.md)
 - [Review-Ch10.pdf](notes/Review-Ch10.pdf)
+- [Review-Ch11.md](notes/Review-Ch11.md)
 - [Review-Ch11.pdf](notes/Review-Ch11.pdf)
+- [Review-Ch12.md](notes/Review-Ch12.md)
 - [Review-Ch12.pdf](notes/Review-Ch12.pdf)
+- [Review-Ch13.md](notes/Review-Ch13.md)
 - [Review-Ch13.pdf](notes/Review-Ch13.pdf)
 
 ## Cheat sheets

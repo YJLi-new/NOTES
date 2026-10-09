@@ -1,6 +1,6 @@
 # CI431 Teaching Children Mathematics (UIUC)
 
-Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten material is kept as PDF.
+Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten notes and scanned submissions are transcribed to Markdown, with the original PDF kept alongside.
 
 ## Notes
 
@@ -8,6 +8,7 @@ Personal notes, cheat sheets and homework for this course. Markdown is converted
 - [Fraction-1-Concepts.md](notes/Fraction-1-Concepts.md)
 - [Fraction-2-Addition-Subtraction.md](notes/Fraction-2-Addition-Subtraction.md)
 - [Fraction-3-Multiplication-Division.md](notes/Fraction-3-Multiplication-Division.md)
+- [Rethinking-Disability-and-Mathematics-Reading-Notes-zh.md](notes/Rethinking-Disability-and-Mathematics-Reading-Notes-zh.md)
 - [Rethinking-Disability-and-Mathematics-Reading-Notes-zh.pdf](notes/Rethinking-Disability-and-Mathematics-Reading-Notes-zh.pdf)
 
 ## Homework

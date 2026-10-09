@@ -2,7 +2,7 @@
 
 Course notes, cheat sheets, homework and practice problems from my undergraduate courses (CUHK-SZ and UIUC).
 
-Formats: Markdown first (converted from Word), PDF for handwritten notes and scanned submissions. Each course folder has its own README index.
+Formats: everything is available as Markdown. Word files are converted; handwritten notes and scanned homework are transcribed (formulas in LaTeX), with the original PDFs kept next to the transcriptions. Each course folder has its own README index.
 
 ## Algebra
 
@@ -11,7 +11,6 @@ Formats: Markdown first (converted from Word), PDF for handwritten notes and sca
 
 ## Analysis
 
-- [MAT1011 Calculus I (CUHK-SZ)](Analysis%20NOTES/MAT1011%20Calculus%20I/)
 - [MAT2050 Mathematical Analysis (CUHK-SZ)](Analysis%20NOTES/MAT2050%20Mathematical%20Analysis/)
 - [MAT3253 Complex Variables (CUHK-SZ)](Analysis%20NOTES/Complex%20Variables/)
 - [MATH347 Fundamental Mathematics (UIUC)](Analysis%20NOTES/MATH347%20Fundamental%20Mathematics/)

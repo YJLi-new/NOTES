@@ -1,6 +1,6 @@
 # CSC1001 Introduction to Computer Science (CUHK-SZ)
 
-Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten material is kept as PDF.
+Personal notes, cheat sheets and homework for this course. Markdown is converted from the original Word files; handwritten notes and scanned submissions are transcribed to Markdown, with the original PDF kept alongside.
 
 ## Cheat sheets
 
@@ -9,4 +9,5 @@ Personal notes, cheat sheets and homework for this course. Markdown is converted
 
 ## Homework
 
+- [Written-Homework.md](homework/Written-Homework.md)
 - [Written-Homework.pdf](homework/Written-Homework.pdf)
